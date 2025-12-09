@@ -1,7 +1,5 @@
 FFT 多场景实践项目：多项式乘法、音频降噪与神经网络优化
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![FFT](https://img.shields.io/badge/Core-Algorithm-FFT-green.svg)]()
+
 本项目基于快速傅里叶变换（FFT）算法，完整实现三大典型应用场景，并通过对比实验量化FFT在深度学习领域的核心价值。项目代码模块化程度高，可直接复现结果，同时支持按需扩展至自定义数据场景。
 
 📋 项目简介
